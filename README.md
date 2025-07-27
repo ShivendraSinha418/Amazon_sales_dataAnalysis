@@ -1,6 +1,6 @@
 # 📊 Amazon Sales Data Analysis 2025
 
-![Amazon Sales Banner](https://images.unsplash.com/photo-1614064641938-3bbee52942c8?ixlib=rb-4.0.3&auto=format&fit=crop&w=1470&q=80)
+![Amazon Sales Banner](https://framerusercontent.com/images/0xTL7gfXyeOoHTyXMxgkKtxAws.png)
 
 ## 📌 Project Overview
 
